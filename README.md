@@ -11,7 +11,7 @@ User interaction:
 By default, the LCD displays the Time, current ambient temperature, and the temperature set by the user in the following Home screen:
 
     Time:             15:38:29
-    Temp:             75/72         // (space heater is off until temp drops below )
+    Temp:             70/72         // (ambient temp is 70F compared to set temp of 72F; space heater is ON until temp > 72F)
 
 To set the scheduled times (military) and temperature (F) for each period, the user simply scrolls up or down through the various time periods using the remote control's down button. The display honors "page breaks" for each time period (see groupings below), so both the Time & Temp for any period are always displayed simultaneously on the 2-line LCD. Within each of these pages, the user can move the cursor up or down over the Time and Temperature digits, and trying to scroll off the screen presents the user with the previous/next ordered page:
 
